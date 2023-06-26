@@ -1,5 +1,5 @@
 # The-Vermilion-Upright-Piano
-The third piano in the Colour Piano Series
+The third piano in the Colour Piano Series.
 A Bright piano with strong Bass notes for free use in Black MIDI videos, editing, or other uses.
 
 (Will)Contains a total of :
