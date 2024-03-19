@@ -5,7 +5,7 @@ A Bright piano with strong Bass notes for free use in Black MIDI videos, editing
 Samples not found, repo serves as a placeholder
 
 Contains a total of :
-- 29 samples (A, C, D#, F#)
+- 33 samples (A, C, D#, F#)
 - 2 versions to choose from
 
           > Regular
