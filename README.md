@@ -4,18 +4,17 @@ A Bright piano with strong Bass notes for free use in Black MIDI videos, editing
 
 Samples not found, repo serves as a placeholder
 
-(Will)Contains a total of :
+Contains a total of :
 - 29 samples (A, C, D#, F#)
-- 3 versions to choose from
+- 2 versions to choose from
 
           > Regular
           > Clean
-          > Realistic Reverb
 
 - infinite vol env release for keys 96+
 
 
-# How To Download - NOT AVALIABLE YET
+# How To Download
 (copied from Indigo Upright Piano, still the same )
 
 If you are not familiar with downloading from Github, click this link to view the releases for this soundfont :
