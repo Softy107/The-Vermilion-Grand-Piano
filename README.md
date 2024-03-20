@@ -2,8 +2,6 @@
 The third piano in the Colour Piano Series.
 A Bright piano with strong Bass notes for free use in Black MIDI videos, editing, or other uses.
 
-Samples not found, repo serves as a placeholder
-
 Contains a total of :
 - 33 samples (A, C, D#, F#)
 - 2 versions to choose from
